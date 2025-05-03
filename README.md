@@ -6,8 +6,8 @@ This project was for Yida Bao's STAT 330: Statistics for Engineers and Scientist
 For this project, I used Python 3.13 and the following libraries/modules to analyze a Motion Capture Hand Posture dataset:
 
 - Matplotlib
-- Numpy
 - Pandas
+- Sklearn
 
 I used the dataset for this project Motion Capture Hand Postures from the UC Irvine Machine Learning Repository website. Here is the link to the dataset:
 https://archive.ics.uci.edu/dataset/405/motion+capture+hand+postures 
